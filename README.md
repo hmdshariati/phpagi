@@ -1,6 +1,8 @@
 PHPAGI README
 -------------
 
+A fork of welltime/phpagi 2.20
+
 Welcome to PHPAGI. 
 
 phpagi is a set of PHP classes for use in developing applications with
@@ -26,13 +28,13 @@ The preferred way to install this extension is through [composer](https://getcom
 Either run
 
 ```bash
-$ composer require welltime/phpagi ^2.20
+$ composer require hmdshariati/phpagi ^2.21
 ```
 
 or add
 
 ```
-"welltime/phpagi": "^2.20"
+"hmdshariati/phpagi": "^2.20"
 ```
 
 to the ```require``` section of your `composer.json` file.
@@ -61,5 +63,5 @@ SUPPORT
 
 Support for phpagi is available from the project website. 
 
- * https://github.com/welltime/phpagi
+ * https://github.com/hmdshariati/phpagi
 

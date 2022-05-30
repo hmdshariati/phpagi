@@ -1,6 +1,6 @@
 <?php
 
-namesapace AGI;
+namespace AGI;
 
 /**
  * phpagi.php : PHP AGI Functions for Asterisk

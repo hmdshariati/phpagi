@@ -177,7 +177,7 @@ class AGI
         // initialize error handler
         if($this->config['phpagi']['error_handler'] == true)
         {
-            set_error_handler('phpagi_error_handler');
+//            set_error_handler('phpagi_error_handler');
             global $phpagi_error_handler_email;
             $phpagi_error_handler_email = $this->config['phpagi']['admin'];
             error_reporting(E_ALL);
